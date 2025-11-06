@@ -68,7 +68,7 @@ With skills in *Python, SQL, Machine Learning, and Power BI*, I focus on deliver
 ---
 
 ## 🌐 Let’s Connect  
-- 💼 [LinkedIn](www.linkedin.com/in/thavalamarri-lakshman-79a7a337a)  
+- 💼 [LinkedIn](www.linkedin.com/in/thavalamarri-lakshman-79a7a337a/)  
 - 📧 Email: *tavalammarrilakshmands@gmail.com*  
 
 ---
